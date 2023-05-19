@@ -1,16 +1,23 @@
-### Hi there 👋
+Allan Lima Angelo
+Desenvolvedor Web em Formação
 
-<!--
-**AllanLimaAngelo/AllanLimaAngelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou um entusiasta de tecnologia em busca de oportunidades no campo de desenvolvimento web. Atualmente estou aprendendo e aprimorando minhas habilidades de programação para me tornar um desenvolvedor web.
+Interesses
 
-Here are some ideas to get you started:
+    💻 Desenvolvimento web front-end
+    🌐 HTML, CSS e JavaScript
+    🎨 Criação de interfaces atraentes e responsivas
+    📚 Aprendizado contínuo de novas tecnologias web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contato
+
+    📧 Email: allanangelonf@gmail.com
+    🔗 LinkedIn
+    🌐 Website pessoal
+
+Fique à vontade para entrar em contato comigo se tiver alguma pergunta, sugestão ou oportunidade relacionada ao desenvolvimento web. Estou animado para continuar aprendendo e expandindo meu conhecimento nessa área emocionante.
+<div align="center">
+  <a href="https://github.com/AllanLimaAngelo">
+    <img src="https://github.com/AllanLimaAngelo/github-logo.png" alt="GitHub" width="30" height="30">
+  </a>
+</div>
