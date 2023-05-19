@@ -1,23 +1,22 @@
-Allan Lima Angelo
-Desenvolvedor Web em Formação
+# Allan Lima Angelo
+
+## Desenvolvedor Web em Formação
 
 Olá! Sou um entusiasta de tecnologia em busca de oportunidades no campo de desenvolvimento web. Atualmente estou aprendendo e aprimorando minhas habilidades de programação para me tornar um desenvolvedor web.
-Interesses
 
-    💻 Desenvolvimento web front-end
-    🌐 HTML, CSS e JavaScript
-    🎨 Criação de interfaces atraentes e responsivas
-    📚 Aprendizado contínuo de novas tecnologias web
+### Interesses
 
-Contato
+- 💻 Desenvolvimento web front-end
+- 🌐 HTML, CSS e JavaScript
+- 🎨 Criação de interfaces atraentes e responsivas
+- 📚 Aprendizado contínuo de novas tecnologias web
 
-    📧 Email: allanangelonf@gmail.com
-    🔗 LinkedIn
-    🌐 Website pessoal
+### Contato
+
+- 📧 Email: allanangelonf@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 🌐 [Website pessoal](https://www.seusite.com)
 
 Fique à vontade para entrar em contato comigo se tiver alguma pergunta, sugestão ou oportunidade relacionada ao desenvolvimento web. Estou animado para continuar aprendendo e expandindo meu conhecimento nessa área emocionante.
-<div align="center">
-  <a href="https://github.com/AllanLimaAngelo">
-    <img src="https://github.com/AllanLimaAngelo/github-logo.png" alt="GitHub" width="30" height="30">
-  </a>
-</div>
+
+[![GitHub](https://github.com/AllanLimaAngelo/github-logo.png)](https://github.com/AllanLimaAngelo)
