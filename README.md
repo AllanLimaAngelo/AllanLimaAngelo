@@ -6,8 +6,8 @@ Olá! Sou um entusiasta de tecnologia em busca de oportunidades no campo de dese
 
 ### Interesses
 
-- 💻 Desenvolvimento web front-end
-- 🌐 HTML, CSS e JavaScript
+- 💻 Desenvolvimento web front-end e back-end
+- 🌐 HTML, CSS,JavaScript e NodeJs
 - 🎨 Criação de interfaces atraentes e responsivas
 - 📚 Aprendizado contínuo de novas tecnologias web
 
