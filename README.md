@@ -6,7 +6,7 @@ Olá! Atualmente estou aprendendo e aprimorando minhas habilidades de programaç
 
 ### Interesses
 
-- 💻 Desenvolvimento web front-end e back-end
+- 💻 Desenvolvimento web fullstack
 - 🌐 HTML, CSS, JavaScript, NodeJs, React e Typescript
 - 📚 Aprendizado contínuo de novas tecnologias web
 
