@@ -17,4 +17,4 @@ Olá! Atualmente estou aprendendo e aprimorando minhas habilidades de programaç
 
 Fique à vontade para entrar em contato comigo se tiver alguma pergunta, sugestão ou oportunidade relacionada ao desenvolvimento web. Estou animado para continuar aprendendo e expandindo meu conhecimento nessa área emocionante.
 
-[![GitHub](https://github.com/AllanLimaAngelo/github-logo.png)](https://github.com/AllanLimaAngelo)
+
