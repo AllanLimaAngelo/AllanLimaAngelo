@@ -7,7 +7,7 @@ Olá! Atualmente estou aprendendo e aprimorando minhas habilidades de programaç
 ### Interesses
 
 - 💻 Desenvolvimento web fullstack
-- 🌐 HTML, CSS, JavaScript, NodeJs, React e Typescript
+- 🌐 HTML, CSS, JavaScript, NodeJs, React, Typescript, Java e PostgreSQL.
 - 📚 Aprendizado contínuo de novas tecnologias web
 
 ### Contato
